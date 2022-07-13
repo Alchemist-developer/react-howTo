@@ -1,4 +1,4 @@
-# react-howTo
+# React: How to
 
 Se React é novo para você (ou frontend no geral) você pode achar o ambiente um pouco confuso. Aqui está algumas razões para isso.
 
